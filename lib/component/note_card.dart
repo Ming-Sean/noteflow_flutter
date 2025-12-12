@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:noteflow/view/constant.dart';
+import 'package:noteflow/constant.dart';
 import 'package:noteflow/model/note.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 
